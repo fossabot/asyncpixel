@@ -25,6 +25,7 @@
   <a href="https://github.com/Obsidion-dev/asyncpixel/releases">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Obsidion-dev/asyncpixel">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FObsidion-dev%2Fasyncpixel?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FObsidion-dev%2Fasyncpixel.svg?type=shield"/></a>
   <a href="https://github.com/Obsidion-dev/asyncpixel/actions?workflow=Tests">
   <img src="https://github.com/Obsidion-dev/asyncpixel/workflows/Tests/badge.svg" alt="Test status" />
   </a>
@@ -99,6 +100,9 @@ A good place to start contributing, are the [Good first issues](https://github.c
 ## 📝 License
 
 Asyncpixel is open-source. The library is licensed [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FObsidion-dev%2Fasyncpixel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FObsidion-dev%2Fasyncpixel?ref=badge_large)
 
 ## 💬 Get in touch
 
